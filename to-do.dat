@@ -1,0 +1,4 @@
+1) Check the cross-sections for pp-> aa again, they are not uniformly growing
+2) Skip the step about trying to explain (for now) the almost-constant behavior of this cross-section with COM energy 
+3) Focus on the backgrounds, do a full MG + Pythia + Delphes + Python analysis, identify useful cuts (check some LHC search, or some NP search with diphotons)
+4) Repeat this for other processes. For now focus just on the diboson.
